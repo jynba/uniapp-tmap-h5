@@ -10,7 +10,7 @@ npm i pnpm
 ## 使用步骤：
 
 1. git clone https://github.com/jynba/uniapp-tmap-h5.git
-2. cd uni-preset-vue-vite
+2. cd uniapp-tmap-h5
 3. pnpm i
 4. pnpm dev:h5
 
