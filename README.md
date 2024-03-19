@@ -15,4 +15,5 @@ npm i pnpm
 4. pnpm dev:h5
 
 ## 效果演示：
-![record](https://github.com/jynba/uniapp-tmap-h5/assets/75623303/7e0197c0-1e0b-46f5-adfa-fc395a09c446)
+![image](https://github.com/jynba/uniapp-tmap-h5/assets/75623303/55148e76-7e23-4d57-8dd0-bc65f1fe4648)
+
